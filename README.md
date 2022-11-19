@@ -1,1 +1,3 @@
 # spirits
+
+**ghost as code
